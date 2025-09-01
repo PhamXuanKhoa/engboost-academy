@@ -131,17 +131,21 @@ chmod 644 .env
 ## File Structure
 
 engboost-academy/
+│
 ├── assets/
 │ ├── css/
 │ ├── js/
 │ └── images/
+│
 ├── includes/
 │ ├── config.php
 │ └── functions.php
+│
 ├── pages/
 │ ├── student/
 │ ├── teacher/
 │ └── admin/
+│
 ├── database.sql
 ├── .env.example
 ├── index.php
