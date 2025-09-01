@@ -198,7 +198,8 @@ For technical support or questions:
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+Copyright © 2025 EngBoost Academy
+This project is made available for educational purposes only. While the source code is publicly viewable for learning and reference, all rights are reserved.
 
 ## Acknowledgments
 
