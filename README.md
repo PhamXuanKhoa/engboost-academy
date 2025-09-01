@@ -130,6 +130,7 @@ chmod 644 .env
 
 ## File Structure
 
+```
 engboost-academy/
 │
 ├── assets/
@@ -150,6 +151,7 @@ engboost-academy/
 ├── .env.example
 ├── index.php
 └── README.md
+```
 
 ## Configuration
 
